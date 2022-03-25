@@ -1,10 +1,16 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 lieu: pont-levis
+=======
+lieu: montagne
+>>>>>>> fisher-king
 inventaire:
   - cheval
   - baguette
+  - lion
 personnages:
   - moi:
+<<<<<<< HEAD
     - santé: 10
 =======
 lieu: montagne
@@ -27,6 +33,13 @@ personnages:
     - santé: 15
   - lion:
     - santé: 11
+=======
+    - santé: 7
+  - chevalier_noir:
+    - santé: 15
+  - lion:
+    - santé: 12
+>>>>>>> fisher-king
   - serpent:
     - santé: 0
   - géant:
